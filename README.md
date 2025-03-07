@@ -12,11 +12,11 @@
 
 6 then type : git clone https://github.com/Ashu1090/music.git
 
-7 open another terminal and type : cd db
+7 cd db
 
 8 npx json-server --watch db.json
 
-9 cd music
+9 open another terminal and type : cd music
 
 10 npm install
 
